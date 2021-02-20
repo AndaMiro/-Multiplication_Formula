@@ -1,6 +1,6 @@
 # -Multiplication_Formula
 
-<a href = "https://html5up.net/dimension">홈페이지 바로가기</a>
+<a href = "http://곱셈공식.메인.한국">홈페이지 바로가기</a>
 
 곱셈공식을 외우기 위해서 만든 페이지
 
